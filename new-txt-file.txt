@@ -10,3 +10,6 @@ New changes test
 
 
 This will match anything@email.com as expected
+
+
+This will not match since it contains test@edwardjones.com as expected
