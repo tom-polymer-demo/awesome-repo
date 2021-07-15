@@ -25,3 +25,10 @@ Now it would match anything@email.com as expected
 
 
 hello 111-11-1112
+
+
+american express 349942457892928
+211.210.105.192
+250.105.171.154
+163.7.83.135
+148.33.198.141
