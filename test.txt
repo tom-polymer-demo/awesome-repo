@@ -38,7 +38,6 @@ Remember 345-12345
 curlysue@people.net
 curlysue@mail.com
 
-Curly 431-88-2194
 
 301-291-1394
 
@@ -56,3 +55,5 @@ This is a test
 081000210
 
 call 391-13942
+
+March 15, 1994
